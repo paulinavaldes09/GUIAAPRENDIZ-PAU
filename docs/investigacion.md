@@ -1,4 +1,4 @@
-1. Sobreescritura de métodos.
+1. Sobreescritura de métodos
 
 ¿Qué es?
 La sobreescritura de métodos consiste en que una clase hija modifica el comportamiento de un método que ya existe en la clase padre.
