@@ -25,7 +25,7 @@ class Perro extends Animal {
   }
 }
 
-2. Polimorfismo
+2. Polimorfismo.
 
 Concepto
 El polimorfismo permite utilizar una variable de la clase padre para almacenar objetos de las clases hijas.
