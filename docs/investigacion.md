@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 1. Sobreescritura de métodos
+=======
+1. Sobreescritura de métodos.
+>>>>>>> Stashed changes
 
 ¿Qué es?
 La sobreescritura de métodos consiste en que una clase hija modifica el comportamiento de un método que ya existe en la clase padre.
@@ -25,7 +29,11 @@ class Perro extends Animal {
   }
 }
 
+<<<<<<< Updated upstream
 2. Polimorfismo.
+=======
+2. Polimorfismo
+>>>>>>> Stashed changes
 
 Concepto
 El polimorfismo permite utilizar una variable de la clase padre para almacenar objetos de las clases hijas.
